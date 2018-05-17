@@ -1,0 +1,24 @@
+p { color: black; font-family: Verdana; }
+body {
+		background-color: white;
+	}
+    p {
+		color: #ffffff;
+		background-color: blue 
+  ;
+	   }
+	
+    h1 {
+		color: #ffffff;
+		background-color: #9E0606;
+	   }
+       
+   	h2 {
+		color: #ffffff;
+	   }
+       
+    a  {
+        color: white;
+        background-color: black; 
+        
+       }

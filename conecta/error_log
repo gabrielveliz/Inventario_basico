@@ -1,0 +1,4 @@
+[11-Dec-2015 20:25:19 UTC] PHP Warning:  mysql_connect(): Unknown MySQL server host 'sql111.mueblesveliz.cl' (2) in /home/mueblesv/public_html/control/conecta/conecta.php on line 7
+[11-Dec-2015 20:31:49 UTC] PHP Warning:  mysql_connect(): Unknown MySQL server host 'sql.mueblesveliz.cl' (2) in /home/mueblesv/public_html/control/conecta/conecta.php on line 7
+[29-Dec-2015 18:40:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mueblesv/public_html/control/conecta/valida.php on line 10
+[29-Dec-2015 18:41:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mueblesv/public_html/control/conecta/valida.php on line 10

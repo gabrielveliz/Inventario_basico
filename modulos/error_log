@@ -1,0 +1,9 @@
+[12-Dec-2015 15:45:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mueblesv/public_html/control/conecta/check.php:10) in /home/mueblesv/public_html/control/conecta/check.php on line 11
+[12-Dec-2015 15:45:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mueblesv/public_html/control/conecta/check.php:10) in /home/mueblesv/public_html/control/conecta/check.php on line 11
+[12-Dec-2015 18:22:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mueblesv/public_html/control/conecta/check.php:10) in /home/mueblesv/public_html/control/conecta/check.php on line 11
+[12-Dec-2015 18:22:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mueblesv/public_html/control/conecta/check.php:10) in /home/mueblesv/public_html/control/conecta/check.php on line 11
+[16-Dec-2015 21:23:08 UTC] PHP Warning:  include(conecta.php): failed to open stream: No such file or directory in /home/mueblesv/public_html/control/modulos/index.php on line 30
+[16-Dec-2015 21:23:08 UTC] PHP Warning:  include(conecta.php): failed to open stream: No such file or directory in /home/mueblesv/public_html/control/modulos/index.php on line 30
+[16-Dec-2015 21:23:08 UTC] PHP Warning:  include(): Failed opening 'conecta.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mueblesv/public_html/control/modulos/index.php on line 30
+[16-Dec-2015 21:23:08 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/mueblesv/public_html/control/modulos/index.php on line 33
+[16-Dec-2015 21:23:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/mueblesv/public_html/control/modulos/index.php on line 35
